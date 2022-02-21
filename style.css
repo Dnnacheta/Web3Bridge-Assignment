@@ -4,7 +4,7 @@
 }
 @font-face {
     font-family: Lexend Deca;
-    src: url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap');
+    src: url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@700&display=swap');
 }
 
 *{
@@ -35,10 +35,10 @@ body{
     background-color: #231e47;
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
-    padding-top: 60px;
+    padding-top: 66px;
     padding-left: 60px;
-    padding-right: 140px;
-    padding-bottom: 40px;
+    padding-right: 120px;
+    padding-bottom: 50px;
 }
 .header{
     font-weight: 700;
@@ -50,6 +50,8 @@ span{
     color: #a75cda;
 }
 .mid-text{
+    line-height: 25px;
+    font-family: 'Lexend Deca', sans-serif;
     color: hsla(0, 0%, 100%, 0.6);
 }
 .bottom-text{
@@ -59,6 +61,7 @@ span{
     font-weight: 200;
     padding-top: 60px;
     padding-bottom: 30px;
+    font-family: 'Lexend Deca', sans-serif;
 }
 .bottom-text .text-wrapper{
     display: flex;
@@ -72,6 +75,7 @@ span{
     padding: 10px;
 }
 .bottom-text .text-wrapper .desc{
+    font-family: 'Lexend Deca', sans-serif;
     color: hsla(0, 0%, 100%, 0.6);
 }
 
