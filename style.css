@@ -106,7 +106,7 @@ img{
     border-bottom-right-radius: 10px;
   }
 
-  /* --For responiveness-- */
+  /* --- For responiveness --- */
   @media screen and (max-width: 650px){
       .main{
           min-height: 100vh;
